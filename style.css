@@ -1,0 +1,32 @@
+*{
+    padding: 0 0;
+    margin: 0 0;
+    border: 0 0;
+}
+
+#center{
+    background: rgba(0, 140, 255, 0.801);
+    width: 1000px;
+    height: 1000px;
+    margin-left: 270px;
+    padding-top: 200px;
+    text-align: center;
+}
+#center #body_center{
+    background: violet;
+    height: 200px;
+    width: 600px;
+    margin-left: 100px;
+    margin-top: 0px;
+    padding: 100px;
+    
+    float: none;
+}
+#center #name{
+    margin: 100px;
+    margin-top: -100px;
+    font-size: 30px;
+}
+#center #body_center input{
+    margin: 5px;
+}
